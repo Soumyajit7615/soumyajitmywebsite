@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yZX8jyEjz1LtIlwuNSr8fkxDnoaA6UxiGWBGA2ZH5Lr21dmydsUoKuQrXgXJzmKo4GX36b2ytxK5OvqkeD7dtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\soumyajit das\\source\\repos\\soumyajitmywebsite\\soumyajitmywebsite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\soumyajit das\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
