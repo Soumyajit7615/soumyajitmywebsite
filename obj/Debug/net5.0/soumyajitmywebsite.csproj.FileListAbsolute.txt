@@ -9,7 +9,6 @@ C:\Users\soumyajit das\source\repos\soumyajitmywebsite\bin\Debug\net5.0\ref\soum
 C:\Users\soumyajit das\source\repos\soumyajitmywebsite\bin\Debug\net5.0\soumyajitmywebsite.pdb
 C:\Users\soumyajit das\source\repos\soumyajitmywebsite\bin\Debug\net5.0\soumyajitmywebsite.Views.dll
 C:\Users\soumyajit das\source\repos\soumyajitmywebsite\bin\Debug\net5.0\soumyajitmywebsite.Views.pdb
-C:\Users\soumyajit das\source\repos\soumyajitmywebsite\obj\Debug\net5.0\soumyajitmywebsite.csproj.AssemblyReference.cache
 C:\Users\soumyajit das\source\repos\soumyajitmywebsite\obj\Debug\net5.0\soumyajitmywebsite.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\soumyajit das\source\repos\soumyajitmywebsite\obj\Debug\net5.0\soumyajitmywebsite.AssemblyInfoInputs.cache
 C:\Users\soumyajit das\source\repos\soumyajitmywebsite\obj\Debug\net5.0\soumyajitmywebsite.AssemblyInfo.cs
